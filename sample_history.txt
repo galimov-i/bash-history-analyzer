@@ -1,0 +1,30 @@
+git status
+git commit -m "update"
+git push
+ls -la
+cd /var/www
+#1678888888
+git status
+gti status
+git status
+git psuh
+git push
+docker-compose -f docker-compose.yml up -d
+docker-compose -f docker-compose.yml up -d
+docker-compose -f docker-compose.yml up -d
+docker-compose -f docker-compose.yml up -d
+docker-compose -f docker-compose.yml up -d
+docker-compose -f docker-compose.yml up -d
+docker-compose -f docker-compose.yml up -d
+docker-compose -f docker-compose.yml up -d
+docker-compose -f docker-compose.yml up -d
+docker-compose -f docker-compose.yml up -d
+docker-compose -f docker-compose.yml up -d
+ echo "ignored because of space"
+grep -r "hello" .
+grep -r "hello" .
+grep -r "hello" .
+lt
+ls
+ls
+ls
